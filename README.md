@@ -86,9 +86,4 @@ UniversityWeb2.0/
 
 Feel free to fork this project, report issues, or suggest enhancements. Contributions are welcome to improve accessibility, design, or add new features.
 
----
-
-### 📧 Contact
-
-For questions, suggestions, or collaboration requests, please open an issue or reach out via the contact form on the website.
 

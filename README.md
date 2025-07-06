@@ -1,8 +1,7 @@
----
 
 ## 🎓 UniversityWebsite
 
-**UniversityWebsite** is a modern and responsive university website designed to represent an academic institution's digital presence. Built with HTML, CSS, JavaScript, and PHP, this project delivers a clean and informative user interface highlighting campus life, academic programs, and communication options for prospective students.
+**UniversityWeb** is a modern and responsive university website designed to represent an academic institution's digital presence. Built with HTML, CSS, JavaScript, and PHP, this project delivers a clean and informative user interface highlighting campus life, academic programs, and communication options for prospective students.
 
 ---
 

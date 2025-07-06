@@ -7,7 +7,7 @@
 
 ### 🌐 Live Overview
 
-The website is fully functional in any modern browser. Simply open the `index.html` file to explore the full experience — no need for local servers or complex setups.
+https://destructorbawa.github.io/University_Website/
 
 ---
 
